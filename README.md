@@ -25,7 +25,6 @@ Soy un apasionado DevOps Engineer con experiencia en automatización, despliegue
 
 #### 📫 Enlaces de Contacto:
 - [LinkedIn](https://www.linkedin.com/in/milton-perez/)
-- [Correo electrónico](mailto:miltonh.perezr@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! Siempre estoy en busca de nuevos desafíos y oportunidades para seguir aprendiendo y creciendo en el mundo de DevOps y SRE.
 
